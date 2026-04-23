@@ -1,0 +1,25 @@
+{
+  "name": "ai-hub-image-toolkit",
+  "displayName": "Ai Hub Image Toolkit",
+  "version": "1.2.1",
+  "description": "AI image generation toolkit using Gemini 3 Pro Image for frontend designs, graphics, and artwork",
+  "author": {
+    "name": "E3 Team - Engineering Excellence & Enablement"
+  },
+  "keywords": [
+    "image-generation",
+    "gemini",
+    "ai",
+    "frontend",
+    "design",
+    "graphics"
+  ],
+  "strict": false,
+  "commands": [],
+  "agents": [],
+  "skills": [
+    "./skills/nano-banana-pro"
+  ],
+  "mcpServers": [],
+  "hooks": []
+}

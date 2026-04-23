@@ -1,0 +1,35 @@
+{
+  "name": "paypal-ai-hub",
+  "owner": {
+    "name": "E3 Team - Engineering Excellence & Enablement",
+    "contact": "#smb-fs-ai",
+    "url": "https://paypal.atlassian.net/wiki/spaces/SMBFS/pages/1192527416/Engineering+Excellence+Enablement+E3"
+  },
+  "metadata": {
+    "description": "PayPal AI Hub - Commands, Subagents, and MCP Servers",
+    "version": "1.4.2"
+  },
+  "plugins": [
+    {
+      "name": "ai-hub-image-toolkit",
+      "description": "AI image generation toolkit using Gemini 3 Pro Image for frontend designs, graphics, and artwork",
+      "source": "./",
+      "version": "1.2.1",
+      "author": {
+        "name": "E3 Team - Engineering Excellence & Enablement"
+      },
+      "keywords": [
+        "image-generation",
+        "gemini",
+        "ai",
+        "frontend",
+        "design",
+        "graphics"
+      ],
+      "strict": false,
+      "skills": [
+        "./paypal-ai-hub/skills/nano-banana-pro"
+      ]
+    }
+  ]
+}
