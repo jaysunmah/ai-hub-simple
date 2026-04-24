@@ -7,8 +7,7 @@
   },
   "metadata": {
     "description": "PayPal AI Hub - Commands, Subagents, and MCP Servers",
-    "version": "1.4.2",
-    "pluginRoot": "plugins"
+    "version": "1.4.2"
   },
   "plugins": [
     {
